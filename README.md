@@ -8,6 +8,8 @@ If you fall into the latter camp, great! Take a look at my code and use it to _p
 
 If you fall into the former camp, then welcome; most of this document is for you! It is my personality to be brutally honest in all things regarding my personal skill set so you will see no lies from me in here. Everything here was coded by me with references being official documentation, Udacity resources/starter code, and blog posts/generic tutorials.
 
+If for whatever reason GitHub isn't rendering the notebook file (which seems to happen a lot), it can be [viewed here](https://nbviewer.jupyter.org/github/linuxdream/UdacityAI-Final/blob/master/Image%20Classifier%20Project.ipynb).
+
 ### Why did I do this program?
 
 I have been a software/web engineer for almost 15 years now (as of 2019) and at the time of this writing, I am two classes away from completing my Master of Computer Science degree from UIUC where I initially focused in their Data Science track. Unfortunately, with two courses to go, I had to change my emphasis away from Data Science to just the basic MCS despite the fact that I followed nearly all Data Science requirements but _one_ class. That one class was CS 498 - Applied Machine Learning. I'm not going to lie, the course was just too much for me. I tried it twice and withdrew about half way through each time. I could sit here and complain about how unfair and unguided the class was and how much time it took me as a working father doing this degree in my spare time (~25hours/week for the 4-unit course) but I'll spare the details. I just couldn't complete the course's requirements in the time I had. It's as simple as that.

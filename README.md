@@ -41,5 +41,5 @@ The second part of the final project was to write the classifier as a command li
 ### Things I could have done differently if time weren't a concern.
 
 - I could (should) have written these as classes but, for the purposes of the project requirements, it wasn't necessary and thus I skipped that. I think the readability and ease of use of a class would have been a benefit here.
-- Parameter passing here just pain terrible. I did it this way for ease of coding and my own understanding vs best practice. In the JS world, I would have passed an object but I understand that using `*args` or `**kwargs` is the Pythonic way.
+- Parameter passing here is just pain terrible. I did it this way for ease of coding and my own understanding vs best practice. In the JS world, I would have passed an object but I understand that using `*args` or `**kwargs` is the Pythonic way.
 - I was able to achieve about 80% accuracy with DenseNet121 and the default params I coded but I'm pretty sure given more time to experiment I could have gotten that higher. In the project, we were given limited time to use the GPU processor so I didn't want to just burn cycles for the sake of a high score.

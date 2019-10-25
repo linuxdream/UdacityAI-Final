@@ -24,7 +24,7 @@ The biggest difference is that this course is more practical in nature while CS-
 
 ### So where are my skills at right now? (end of 2019)
 
-I can tell you that after this nanodegree, my Python and data science library skills are far better than where they were before I did the program. Again, I've been in the web software engineering field for almost 15 years so I had the programming background but I lacked the Python and data science library use knowledge. I feel much more comfortable with that now. I'm most certainly not an expert and I'd consider myself an entry-level data scientist at this point.
+I can tell you that after this nanodegree, my Python and data science library skills are far better than where they were before I did the program. Again, I've been in the web software engineering field for almost 15 years so I had the programming background but I lacked the Python and data science library use knowledge. I feel much more comfortable with that now. I'm most certainly not an expert and I'd consider myself an entry-level data scientist at this point (as a product largely of my MCS-DS program but also this one as well).
 
 Between this course and my MCS classes I feel like I have good grasp on a lot of the machine learning concepts and could implement most of the more common ones. Where I think I lack is in the production implementation knowledge. I can code it but I don't know what it looks like to implement this as a service backend. I think I have an idea just from my cloud architecture and API design background but I have yet to see an actual implementation.
 
